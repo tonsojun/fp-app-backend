@@ -43,4 +43,3 @@ CREATE TABLE transactions (
 	description TEXT  
 );
 
-//
