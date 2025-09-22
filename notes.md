@@ -42,3 +42,5 @@ CREATE TABLE transactions (
 	amount NUMERIC NOT NULL,
 	description TEXT  
 );
+
+//
